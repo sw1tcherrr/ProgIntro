@@ -27,5 +27,5 @@ paragraph.toMarkdown(new StringBuilder()); // __1~2*34*5~6__
 
 This task is about minimizing duplicated code and creating the most abstract inheritance scheme
 
-![](/home/switcher/Documents/repos/ProgIntro/Markup/class_diagram.png)
+![](class_diagram.png)
 
