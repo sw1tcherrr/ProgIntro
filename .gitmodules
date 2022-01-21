@@ -1,0 +1,3 @@
+[submodule "Java-parser"]
+	path = Java-parser
+	url = https://github.com/sw1tcherrr/Java-parser
